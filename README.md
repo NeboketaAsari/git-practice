@@ -6,3 +6,4 @@ rebaseブランチで更新
 rebaseブランチで更新(conflict)
 リモートリポで更新
 stash
+stash(track)
