@@ -5,3 +5,4 @@ conflict-remoteブランチ上で更新
 rebaseブランチで更新
 rebaseブランチで更新(conflict)
 リモートリポで更新
+stash
