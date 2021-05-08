@@ -7,3 +7,4 @@ rebaseブランチで更新(conflict)
 リモートリポで更新
 stash
 stash(track)
+stash 2nd
